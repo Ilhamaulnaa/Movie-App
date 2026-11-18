@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Titles -->
+    <string name="title_genres">Movie Genres</string>
+    <string name="subtitle_genres">Pick a genre to discover movies</string>
+
+    <!-- Sections -->
+    <string name="section_overview">Overview</string>
+    <string name="section_trailer">Trailer</string>
+    <string name="section_reviews">User Reviews</string>
+
+    <!-- Actions -->
+    <string name="action_retry">Retry</string>
+    <string name="action_back">Back</string>
+    <string name="action_read_more">Read more</string>
+    <string name="action_show_less">Show less</string>
+    <string name="action_watch_on_youtube">Watch on YouTube</string>
+
+    <!-- Empty states -->
+    <string name="empty_genres">No genres available right now.</string>
+    <string name="empty_movies">No movies found for this genre.</string>
+    <string name="empty_reviews">No reviews yet for this movie.</string>
+    <string name="empty_overview">No overview available.</string>
+    <string name="end_of_list">You\'ve reached the end of the list</string>
+
+    <!-- Trailer -->
+    <string name="trailer_not_available">No trailer available for this movie.</string>
+    <string name="trailer_failed">Trailer could not be loaded.</string>
+    <string name="trailer_cannot_play">This trailer can\'t be played inside the app.</string>
+
+    <!-- Movie info -->
+    <string name="votes_count">%1$s votes</string>
+    <string name="unknown_value">—</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">No internet connection. Please check your network and try again.</string>
+    <string name="error_timeout">The request timed out. Please try again.</string>
+    <string name="error_unauthorized">Invalid or missing TMDB API key. Please check your configuration.</string>
+    <string name="error_not_found">The requested data could not be found.</string>
+    <string name="error_server">The server is having problems. Please try again later.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+
+</resources>
